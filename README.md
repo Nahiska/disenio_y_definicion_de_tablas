@@ -1,5 +1,6 @@
 # disenio_y_definicion_de_tablas
 Práctica Integradora - Diseño y definición de tablas - Digital House
 
+[Práctica diseño y definición de tablas.pdf](https://github.com/Nahiska/disenio_y_definicion_de_tablas/files/11172043/Practica.diseno.y.definicion.de.tablas.pdf)
 
-![práctica drawio](https://user-images.githubusercontent.com/118026671/229982865-51b77120-9a69-4289-b959-d0cab8c32297.png)
+
